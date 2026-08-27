@@ -12,6 +12,7 @@ This investigation focused on a suspicious DNS activity, using the available PCA
 - DNS queries occurred at very short intervals.
 ![Dns Packet](evidence/dns_packet(1).png)
 - Different subdomains resolved to the same destination IP address.
+![Destination IP](evidence/same_destination_ip.png)
 
   ## Findings
 - Source IP: `10.0.2.15`
