@@ -8,7 +8,7 @@ This investigation focused on a suspicious DNS activity, using the available PCA
 - Primary evidence: Wireshark PCAP file.
   
 - Random-looking subdomains were observed.
-    ![Random Domain Names}(evidence/random_domain_names.pcap}
+    ![Random Domain Names}(evidence/random_domain_names.png}
 - DNS queries occurred at very short intervals.
 - Different subdomains resolved to the same destination IP address.
 
